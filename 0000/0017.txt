@@ -93,8 +93,8 @@ The sandstorm subsided.
 The hail stopped falling!
 きりが はれた！
 てんこうの えいきょうが なくなった！
-すなあらしが ふきあれる！
-Hail continues to fall！
+The sandstorm rages.
+Hail continues to fall!
 It’s a one-hit KO!
 \xf000ĉ\x0001\x0000は\xfffe\xf000ć\x0001\x0001の いりょくを よわめた！
 \xf000ĉ\x0001\x0000の こうかで\xfffe\xf000ć\x0001\x0001しか だせない！
@@ -156,8 +156,8 @@ The poison spikes disappeared from\xfffearound your team’s feet!
 The poison spikes disappeared from\xfffearound the enemy team’s feet!
 Pointed stones float in the air\xfffearound your team!
 Pointed stones float in the air\xfffearound your foe’s team!
-みかたの まわりの\xfffeステルスロックが きえさった！
-あいての まわりの\xfffeステルスロックが きえさった！
+The pointed stones vanished from\xfffearound your team!
+The pointed stones vanished from\xfffearound the enemy team!
 みかたの まわりを\xfffeワイドガードが まもっている！
 あいての まわりを\xfffeワイドガードが まもっている！
 みかたの まわりを\xfffeファストガードが まもっている！
