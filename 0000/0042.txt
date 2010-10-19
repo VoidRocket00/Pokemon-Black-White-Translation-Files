@@ -1,19 +1,19 @@
 \xf000Ā\x0001\x0000
-ＩＤ\xf000Ȅ\x0001\x0000
-メンバーが そろったら\xfffeＡボタン：すすむ Ｂボタン：やめる
-この メンバーで よろしいですか？
-ぐるぐるこうかんを\xfffeちゅうし しますか？
-それでは ぐるぐるこうかんを\xfffeちゅうし します
+ID: \xf000Ȅ\x0001\x0000
+Recruit members\xfffeA: Accept B: Cancel
+Is this member OK?
+End communication between\xfffemembers?
+This will end all\xfffemember communications.
 つごうが わるくなってしまった\xfffeメンバーが います
-メンバーが いなくなりました\xfffeぐるぐるこうかんを ちゅうし します
-そのまま おまちください\xfffeＢボタン：やめる
+End communication between\xfffemembers
+Please wait a moment...\xfffeB: Cancel
 つごうのつかない メンバーがいたので\xfffeぐるぐるこうかんを ちゅうし します
-ぐるぐるこうかんを やめますか？
-それでは ぐるぐるこうかんを\xfffeちゅうし します
-レコードを まぜています\xfffeでんげんを きらないで ください！
+Halt group communications?
+This will end all\xfffegroup communications.
+Saving...please do not\xfffeturn off the power!
 ぐるぐるこうかんが おわりました！\xfffeユニオンルームへ いどうします
-リーダーが やめると かいさんに\xfffeなりますが よろしいですか？
-\xf000Ā\x0001\x0000さんが かえりました
+The group leader wishes to\xfffedisconnect. Is this OK?
+\xf000Ā\x0001\x0000 returned.
 リーダーの \xf000Ă\x0001\x0000さんが\xfffeぬけたので かいさん します
 ぐるぐるこうかん ぼしゅうちゅう！
 ぐるぐるこうかんちゅう！
