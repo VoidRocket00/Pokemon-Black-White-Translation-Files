@@ -6,13 +6,13 @@ You're tough\xfffe*Cry*...!
 Hey, you're a tough Pokémon Trainer!\xfffeI hope to get as good as you!\xf000븀\x0000At least my Pokémon are cute!
 Have you ever heard of the\xfffeKanto region?!\xf000븁\x0000
 I lost?...\xfffeNo way!
-The Kanto region is far from here.\xfffeI hear they have different kinds of Pokémon!\xf000븀\x0000It's not like we'll ever go there, huh?!
-さて わたしの ポケモンが\xfffeどれだけ そだったか みてください！\xf000븁\x0000
-……まだまだ\xfffeそだって いませんね
-すごいですね\xfffeこれは プレゼントです\xf000븁\x0000
-ありがとう ございます！\xf000븁\x0000しょうぶ したことで これから\xfffeどう そだてればいいか わかりました
-あなたの ポケモン！\xfffeなんだか いい かんじ！\xf000븁\x0000どんなふうに そだてているのか\xfffeみせてもらっても いいかな？\xf000븁\x0000
-なるほど……！\xfffeいっしょに たびして そだてたのか！
+The Kanto region is far from here.\xfffeI hear they have many\xf000븀\x0000different kinds of Pokémon!\xf000븀\x0000It's not like we'll ever\xfffego there, huh?!
+Hey! Would you try to\xfffehelp me level up my Pokémon?\xf000븁\x0000
+Oh, man, I lost!\xf000븁\x0000I guess I need to\xfffetrain some more...
+That's fantastic!\xfffeHere's a present for you.\xf000븁\x0000
+Thank you so much!\xf000븁\x0000しょうぶ したことで これから\xfffeどう そだてればいいか わかりました
+Ah! Your Pokémon!\xfffeなんだか いい かんじ！\xf000븁\x0000どんなふうに そだてているのか\xfffeみせてもらっても いいかな？\xf000븁\x0000
+I see...!\xfffeいっしょに たびして そだてたのか！
 どうぞ これを\xfffeだいじな ポケモンに\xf000븁\x0000
 いろんな けいけんを つんで\xfffeそだった ポケモンは\xf000븁\x0000しぜんと トレーナーの きもちが\xfffeわかるように なるんだろうね！
 I'm invincible when I see\xfffethe smiles on the children's faces\xf000븀\x0000with their Pokémon!\xf000븁\x0000
@@ -35,14 +35,15 @@ Hyper Beam?\xfffeI can't use it.\xf000븁\x0000My Pokémon doesn't know it, but 
 Mr. Trainer! I want\xfffeyou to battle me.\xf000븁\x0000
 Mr. Trainer,\xfffethat was too fast!
 Ohhh! I'll be stronger when\xfffeI get bigger. I wanna be\xf000븀\x0000big like you Mr. Trainer!
-トレーナーズスクールで\xfffeまなんだ ちしきを つかうとき！\xf000븁\x0000
-むぎゅ！
+I've done lots of studying\xfffeat the Trainer School!\xf000븁\x0000
+Wow!
 きみの すごさに あっとうされて\xfffeまなんだ ちしきを わすれていたよ\xf000븀\x0000しょうぶのときは れいせい でないと
-いま あたらしい せんりゃくを\xfffeかんがえていた ところ なんだ！\xf000븁\x0000
-どう たたかうか\xfffeまよっちゃった……
-ゆれる くさむらの なかには\xfffeちょっと めずらしい\xf000븀\x0000ポケモンが いるかも？ とか\xf000븀\x0000いろんな ちしきは そなえているよ
+I've developed a completely\xfffenew battle strategy now!\xf000븁\x0000
+Wow! Battling is so\xfffeconfusing!
+Sometimes you'll find unusual\xfffePokémon if you step in\xf000븀\x0000shaking grass!\xf000븀\x0000I know all sorts of\xfffethings like this!
+Hey!
 まだ そだっていない ポケモンでも\xfffeトレーナーの たたかいかた しだいで\xf000븀\x0000ちからを はっき できますわ\xf000븁\x0000
-まあ くやしい！\xfffeわたし まけましたわ
+How perplexing! You\xfffedefeated me!
 トレーナーの ちからぶそくで\xfffeまけると ポケモンが かわいそう……\xf000븀\x0000トレーナーの せきにんって だいじね
 せかいを たびする たのしみは\xfffeかくちで であう かずおおくの\xf000븀\x0000ポケモンたちとの しんけんしょうぶ！\xf000븁\x0000
 うおー！ きみは\xfffeせかいでも トップクラス！\xf000븀\x0000……かもしれない
@@ -145,8 +146,8 @@ That's the kind of\xfffebattle that I love!
 シッポウジムに いりびたり\xfffeほんのむしと よばれた ボク\xf000븁\x0000いっておきますが つよいですよ\xfffeボクの いちにちって ほんをよむか\xf000븀\x0000ポケモンをそだてるか ですから\xf000븁\x0000
 ほんのむし といっても\xfffeむしタイプの ポケモンではないです
 さいしょの おすすめの ほんは\xfffe「はじめまして ポケモンちゃん」です\xf000븁\x0000じどうしょの ほんだなは\xfffeいりぐち ちかくに ありますよ
-わっわっわー！\xfffeまけたけど ありがとうございます
-その つよさ……\xfffeわたしの ちしきを うわまわる！
+Whoooaaa！\xfffeThank you so much!
+That power...\xfffeIt's beyond imagination!
 BISH!\xfffeYou've hit the switch of my soul!!
 Let us further... the bug spirit!\xfffeNo, no, I don't mean it like that!
 Ooh...?!\xfffeCould this be the end?!
