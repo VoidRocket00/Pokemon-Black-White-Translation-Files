@@ -25,9 +25,9 @@ This is Cheren.\xf000븁\x0000He's had a passion for\xfffePokémon since he was 
 And this is Bel.\xf000븁\x0000This girl is a bit of\xfffea trouble maker...\xf000븁\x0000She always is fighting with\xfffeher Mom and Dad.\xf000븁\x0000
 And with you in this club,\xfffethe total makes 3!\xf000븁\x0000Well... I guess you already\xfffesaw that, but let's go on.\xf000븁\x0000
 \xf000Ā\x0001\x0000!\xf000븁\x0000You're almost ready to walk\xfffeinto the world of Pokémon!\xf000븁\x0000Remember to keep going on,\xfffeno matter what happens.\xf000븁\x0000Don't you forget that!\xf000븁\x0000Well... There you go...\xfffeI will be seeing you later.\xf000븁\x0000Make sure to come over to \xfffemy lab as soon you're in town.\xf000븁\x0000Now, go on and leap\xfffeinto the world of Pokémon!
-ちょっと まってね……！\xfffeいま いろいろ じゅんび してるから
-All right！\xfffeこれで オーケーと！\xf000븁\x0000
+Wait a minute...!\xfffeいま いろいろ じゅんび してるから
+All right！\xfffeThis is OK!\xf000븁\x0000
 ちゅうい！\xfffeべつの ポケモンレポートが かかれて いますので\xfffeこれから はじめる ぼうけんは\xfffeとちゅうで レポートを かくことができません\xfffeそれでも よろしいですか？
-ぼうけんを はじめる
+Begin Adventure
 Return to menu
 Skip demonstration?
