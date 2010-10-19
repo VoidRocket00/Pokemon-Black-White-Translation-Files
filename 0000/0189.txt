@@ -6,7 +6,7 @@ You're tough\xfffe*Cry*...!
 Hey, you're a tough Pokémon Trainer!\xfffeI hope to get as good as you!\xf000븀\x0000At least my Pokémon are cute!
 Have you ever heard of the\xfffeKanto region?!\xf000븁\x0000
 I lost?...\xfffeNo way!
-The Kanto region is far from here.\xfffeI hear they have many\xf000븀\x0000different kinds of Pokémon!\xf000븀\x0000It's not like we'll ever\xfffego there, huh?!
+Kanto is really far from here.\xfffeI hear they have many\xf000븀\x0000different kinds of Pokémon!\xf000븀\x0000It's not like we'll ever\xfffego there though, huh?!
 Hey! Would you try to\xfffehelp me level up my Pokémon?\xf000븁\x0000
 Oh, man, I lost!\xf000븁\x0000I guess I need to\xfffetrain some more...
 That's fantastic!\xfffeHere's a present for you.\xf000븁\x0000
@@ -23,7 +23,7 @@ Kumi: Oh! Mr. Pokémon\xfffeisn't moving!\xf000븁\x0000Rumi: Huh? Mr. Pokémon\
 とちゅうで キズぐすり とか\xfffeつかえば かててたのかな？
 えっ ポケモン １ひき だけ？\xfffeそれでも トレーナーさん なの？
 Um...\xfffeOne plus one equals two!\xf000븁\x0000
-あれれ？ ポケモンさん\xfffeげんき なくなっちゃった……
+Awwh, what? I don't have\xfffeany more usable Pokémon!
 ダブルバトルは １ひき たおれると\xfffeかつの むずかしいんだね
 ポケモン １ひき だけなの？\xfffeそれでも トレーナー？
 Hey trainer!\xfffePlay with me!!\xf000븁\x0000
@@ -34,25 +34,25 @@ Eat this!\xfffeHyper Beam!\xf000븁\x0000
 Hyper Beam?\xfffeI can't use it.\xf000븁\x0000My Pokémon doesn't know it, but I\xfffewant a strong attack like that.
 Mr. Trainer! I want\xfffeyou to battle me.\xf000븁\x0000
 Mr. Trainer,\xfffethat was too fast!
-Ohhh! I'll be stronger when\xfffeI get bigger. I wanna be\xf000븀\x0000big like you Mr. Trainer!
+Ohhh! I'll be stronger when\xfffeI get bigger. I wanna be\xf000븀\x0000strong like you, Mr. Trainer!
 I've done lots of studying\xfffeat the Trainer School!\xf000븁\x0000
 Wow!
 きみの すごさに あっとうされて\xfffeまなんだ ちしきを わすれていたよ\xf000븀\x0000しょうぶのときは れいせい でないと
-I've developed a completely\xfffenew battle strategy now!\xf000븁\x0000
+I've developed a completely\xfffenew battle strategy!\xf000븁\x0000
 Wow! Battling is so\xfffeconfusing!
-Sometimes you'll find unusual\xfffePokémon if you step in\xf000븀\x0000shaking grass!\xf000븀\x0000I know all sorts of\xfffethings like this!
-Hey!
+Sometimes you'll find unusual\xfffePokémon if you step in\xf000븀\x0000shaking grass!\xf000븀\x0000Isn't it amazing how\xfffemuch I know?
+Oh, wow!
 まだ そだっていない ポケモンでも\xfffeトレーナーの たたかいかた しだいで\xf000븀\x0000ちからを はっき できますわ\xf000븁\x0000
-How perplexing! You\xfffedefeated me!
-トレーナーの ちからぶそくで\xfffeまけると ポケモンが かわいそう……\xf000븀\x0000トレーナーの せきにんって だいじね
+Impossible! I lost...?!
+A trainer's biggest mistake is\xfffeto use weak Pokémon...\xf000븀\x0000I'll prove my team's\xfffesuperiority!
 せかいを たびする たのしみは\xfffeかくちで であう かずおおくの\xf000븀\x0000ポケモンたちとの しんけんしょうぶ！\xf000븁\x0000
-うおー！ きみは\xfffeせかいでも トップクラス！\xf000븀\x0000……かもしれない
+Wow! You're really an\xfffeincredible trainer...\xf000븀\x0000Maybe you just got lucky...!
 ポケモンと いっしょなら\xfffeせかいの どこでだって\xf000븀\x0000トレーナーと しょうぶ できる！\xf000븁\x0000せかいは ひろい！ うおー！\xfffeなんか きたいが ふくらむー！
-きみは どこから きたの？\xf000븁\x0000わたしはね…… しょうぶに\xfffeかったら おしえてあげる！\xf000븁\x0000
-はじめての しょうぶ……\xfffeまけちゃった……
+Where did you come from?\xf000븁\x0000I see...しょうぶに\xfffeかったら おしえてあげる！\xf000븁\x0000
+I...I've never lost before...\xfffeYou defeated me...
 わたし じつは きのう\xfffeヒウンシティから たびだったばかり\xf000븀\x0000ポケモンも はじめたばかりなの
 オレは まだまだ ルーキーだが\xfffeいつか すごい プレイヤーになる！\xf000븁\x0000そのためには ポケモンしょうぶも\xfffeどんどん こなしていくぜ！\xf000븁\x0000
-ぐぎゃあ！\xfffeドリブル しっぱい！
+Aawwh! My dribbling is\xfffeterrible!
 まけても いいわけ しないぜ！\xf000븁\x0000そんなヒマが あったら\xfffeうまくなるために できることを\xf000븀\x0000するほうが いいに きまってる！
 わかものよ！ せいしゅんとは\xfffeあせを ながすことだろ！？\xf000븁\x0000
 さわやかな あせ……\xfffeああ スポーツマンで よかった！
