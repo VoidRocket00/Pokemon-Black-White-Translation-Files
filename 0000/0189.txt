@@ -6,7 +6,7 @@ You're tough\xfffe*Cry*...!
 Hey, you're a tough Pokémon Trainer!\xfffeI hope to get as good as you!\xf000븀\x0000At least my Pokémon are cute!
 Have you ever heard of the\xfffeKanto region?!\xf000븁\x0000
 I lost?...\xfffeNo way!
-Kanto is really far from here.\xfffeI hear they have many\xf000븀\x0000different kinds of Pokémon!\xf000븀\x0000It's not like we'll ever\xfffego there though, huh?!
+Kanto is really far from here.\xfffeI hear they have many\xf000븀\x0000different kinds of Pokémon!\xf000븀\x0000It's not like we'll ever\xfffebe able to go there, though...
 Hey! Would you try to\xfffehelp me level up my Pokémon?\xf000븁\x0000
 Oh, man, I lost!\xf000븁\x0000I guess I need to\xfffetrain some more...
 That's fantastic!\xfffeHere's a present for you.\xf000븁\x0000
@@ -14,7 +14,7 @@ Thank you so much!\xf000븁\x0000しょうぶ したことで これから\xfffe
 Ah! Your Pokémon!\xfffeなんだか いい かんじ！\xf000븁\x0000どんなふうに そだてているのか\xfffeみせてもらっても いいかな？\xf000븁\x0000
 I see...!\xfffeいっしょに たびして そだてたのか！
 どうぞ これを\xfffeだいじな ポケモンに\xf000븁\x0000
-いろんな けいけんを つんで\xfffeそだった ポケモンは\xf000븁\x0000しぜんと トレーナーの きもちが\xfffeわかるように なるんだろうね！
+If you can't train your\xfffePokémon well...\xf000븁\x0000I guess they don't really\xfffebecome as dependable...
 I'm invincible when I see\xfffethe smiles on the children's faces\xf000븀\x0000with their Pokémon!\xf000븁\x0000
 Wow! Wonderful!\xfffeYou're a strong trainer!
 I looked at your\xfffePokémon's eyes and realized something.\xf000븀\x0000Pokémon and humans are equals.
@@ -40,7 +40,7 @@ Wow!
 きみの すごさに あっとうされて\xfffeまなんだ ちしきを わすれていたよ\xf000븀\x0000しょうぶのときは れいせい でないと
 I've developed a completely\xfffenew battle strategy!\xf000븁\x0000
 Wow! Battling is so\xfffeconfusing!
-Sometimes you'll find unusual\xfffePokémon if you step in\xf000븀\x0000shaking grass!\xf000븀\x0000Isn't it amazing how\xfffemuch I know?
+Sometimes you'll find unusual\xfffePokémon if you step in\xf000븀\x0000shaking grass!\xf000븀\x0000I could tell you a\xfffelot more if you wanted...
 Oh, wow!
 まだ そだっていない ポケモンでも\xfffeトレーナーの たたかいかた しだいで\xf000븀\x0000ちからを はっき できますわ\xf000븁\x0000
 Impossible! I lost...?!
@@ -55,10 +55,10 @@ I...I've never lost before...\xfffeYou defeated me...
 Aawwh! My dribbling is\xfffeterrible!
 まけても いいわけ しないぜ！\xf000븁\x0000そんなヒマが あったら\xfffeうまくなるために できることを\xf000븀\x0000するほうが いいに きまってる！
 わかものよ！ せいしゅんとは\xfffeあせを ながすことだろ！？\xf000븁\x0000
-さわやかな あせ……\xfffeああ スポーツマンで よかった！
-バスケットボール サイズの\xfffeモンスターボールが ほしいね！\xf000븁\x0000だって でっかいほうが なかの\xfffeポケモンも きもちいい でしょ！？
-わたしという みりょくてきな\xfffeつりばりに ひっかかったな！\xf000븁\x0000つりたて ピチピチの ポケモンで\xfffeしょうぶ してあげよう！\xf000븁\x0000
-つりあげられたのは……\xfffeこの わたし だったか！！
+It can be refreshing working\xfffeup a sweat like this...\xf000븁\x0000You're a great athlete!
+I wish basketballs were\xfffeas small as Poké Balls...\xf000븁\x0000だって でっかいほうが なかの\xfffeポケモンも きもちいい でしょ！？
+Hey! You interrupted my fishing!\xfffeI just caught a fresh one, too!\xf000븁\x0000Let me show you!
+Did you really have to\xfffeintrude while I was busy\xf000븁\x0000reeling it in?!
 つった ポケモンは すぐ にがす！\xfffeこれぞ キャッチ アンド リリース！\xf000븀\x0000にがすときは ひとこと かけるんだ\xf000븁\x0000さよなら ポケモン\xfffeナイス ファイト！！\xf000븁\x0000きみにも かけよう\xfffeナイス ファイト！！
 おっし！\xfffeたいりょう たいりょう！\xf000븁\x0000つぎは しょうり という\xfffeえものを つってみるか\xf000븁\x0000
 のがした しょうりは\xfffeあまりにも でかかった……
@@ -66,11 +66,11 @@ Aawwh! My dribbling is\xfffeterrible!
 ガガガガガ！ こうじちゅうでも\xfffeトレーナーなら すぐ しょうぶ！\xf000븁\x0000
 ガガガガガ……\xfffe ガガガガガ…… あなをほる……
 ポケモンのわざ あなをほる は\xfffeつかえば いっしゅんで\xf000븀\x0000どうくつから ぬけだせるんだ！
-ムキムキマッチョの さぎょういん！\xfffeじまんの きんにくで ぶっとばす！\xf000븁\x0000
-むう！\xfffeちょこざいな！
+I'm a rough and rugged miner!\xfffeI'll throw my gold at you!\xf000븁\x0000
+Hmm...that was irrelevant...
 まだ こどもだと おもって\xfffeみくびっていたが…… いやいや\xf000븀\x0000りっぱな トレーナーだな！
 さぎょういんの おじさんは\xfffeこうじも しょうぶも おてのもの\xf000븁\x0000
-おてのもの でも なかったかー！
+But...you aren't my subordinate!
 しょうぶには まけたが\xfffeこうじでは だれにも まけないぞ！\xf000븁\x0000おまえにも そういう\xfffeだれにも まけないモノが あるだろ
 ちからしごとで きたえた おれたち！\xfffeその パワフルこうげき うけてみろ！\xf000븁\x0000
 ちからしごとで きたえた おれたち\xfffeまけるときも パワフル だぜ！
@@ -87,8 +87,8 @@ Aawwh! My dribbling is\xfffeterrible!
 さあて！ いつもは パンづくりを\xfffeてつだってくれる ポケモンたちだよ！\xf000븁\x0000
 あらま！？\xfffeこうばしい しょうぶ だったわね
 ポケモンと なかよく パンをやく……\xf000븁\x0000すごく たのしくてさ\xfffeまいにち はやおきだって へいきだよ
-クルっと まわって ボクの ターン♪\xfffeクルっと まわって キミの ターン\xf000븁\x0000
-クルクルクルクル……
+Fwoosh...It's my turn to dance♪\xfffe...Now it's yours!\xf000븁\x0000
+Fwoosh...fwoosh...
 かろやかに ダンスしながらの\xfffeしょうぶは むずかしい\xf000븁\x0000だけど ボクは ダンサー！\xfffeおどるのが あたりまえ なのさ！
 おみせしましょう！\xfffeポケモンたちと きわめた わざを！\xf000븁\x0000
 おみそれしました……\xfffeあなたと ポケモンの わざ！
