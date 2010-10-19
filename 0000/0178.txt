@@ -1,77 +1,77 @@
-ディレクター
-ますだ じゅんいち
-２Ｄ アート ディレクター
-すぎもり けん
-３Ｄ アート ディレクター
-うんの たかお
-プログラム ディレクター
-わたなべ てつや
-プランニング ディレクター
-かわちまる たけし
-シナリオ
-まつみや としのぶ
-つうしん プログラム
-リーダー
-おおの かつみ
-まつだ よしのり
-なぎはし とおる
-ありいずみ のぶひこ
-バトル プログラム
-リーダー
-そがべ ひさし
-たや まさお
-フィールド プログラム
-リーダー
-たまだ そうすけ
-かがや けいた
-いわさわ みゆき
-さいとう のぞむ
-たかはし ともや
-おばた としひろ
-ユーザーインターフェイス プログラム
-リーダー
-もり あきと
-なかむら ひろゆき
-かわだ こうじ
-ほさか げんや
-バトル システム プログラム
-たや まさお
-ポケモンジム メイン プログラム
-さいとう のぞむ
-レールシステム プログラム
-たかはし ともや
-３Ｄ グラフィック サポート プログラム
-いわさわ みゆき
-システム プログラム
-わたなべ てつや
-そがべ ひさし
-たまだ そうすけ
-おおの かつみ
-たや まさお
-ポケモン キャラクター ディレクター
-すぎもり けん
-ポケモン デザイン
-すぎもり けん
-うんの たかお
-ふじわら もとふみ
-よしだ ひろのぶ
-とやま けんきち
-ふちの ひろき
-おおむら ゆうすけ
-つるた さや
-リ ヒョンジョン
-いべ まな
-たのうえ れいこ
-きたかぜ ともひろ
-ふじわら まいこ
-みずたに めぐみ
-おおくぼ ともひこ
-ジェイムス ターナー
-もりつぐ けいこ
-にしだ あつこ
-２Ｄ グラフィック デザイン
-リーダー
-よしだ ひろのぶ
+Director
+Junichi Masuda
+2D Art Director
+Ken Sugimori
+3D Art Director
+Takao Uno
+Programming Director
+Tetsuya Watanabe
+Planning Director
+Takeshi Kawachimaru
+Scenario Design
+Toshinobu Matsumiya
+Program Design
+Leaders
+Katsumi Ono
+Yoshinori Matsuda
+Tooru Nagihashi
+Nobuhiko Arizumi
+Battle Programming
+Leaders
+Hisashi Sogabe
+Masao Taya
+Field Programming
+Leaders
+Sousuke Tamada
+Keita Kagaya
+Miyuki Iwasawa
+Nozomu Saito
+Tomoya Takahashi
+Toshihiro Obata
+Interface Design
+Leaders
+Akito Mori
+Hiruyuki Nakamura
+Koji Kawada
+Kenya Hosaka
+Battle Programmer
+Masao Taya
+Pokémon Gym Programmer
+Nozomu Saito
+Rail System Programmer
+Tomoya Takahashi
+3D Graphics Support
+Miyuki Iwasawa
+System Programmers
+Tetsuya Watanabe
+Hisashi Sogabe
+Sosuke Tamada
+Katsumi Ono
+Masao Taya
+Pokémon Character Director
+Ken Sugimori
+Pokémon Design
+Ken Sugimori
+Takao Uno
+Motofumi Fujiwara
+Hironobu Yoshida
+Kenkichi Toyama
+Hiroki Fuchino
+Yusuke Omura
+Saya Tsuruta
+Lee Hyonjon
+Mana Ibe
+Reiko Tanoe
+Tomohiro Kitakaze
+Maiko Fujiwara
+Megumi Mizutani
+Tomohiro Okubo
+James Turner
+Keiko Moritsuge
+Atsuko Nishida
+2D Graphics Design
+Leader
+Hironobu Yoshida
 ふじわら もとふみ
 とやま けんきち
 おおむら ゆうすけ
