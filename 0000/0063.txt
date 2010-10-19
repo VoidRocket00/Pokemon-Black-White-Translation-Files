@@ -22,7 +22,7 @@ Single battle
 Double battle
 Tripple battle
 Rotation battle
-Mirakurushuta
+Miracle Shooter
 Union Room
 Wi-Fi Club
 Global Terminal
@@ -31,8 +31,8 @@ C-Gear
 C-Gear Log
 C-Gear Building
 C-Gear Questionaire
-C-Gear はじめる
-C-Gear ほうこく
+C-Gear Starting
+C-Gear Report
 IR (Infrared) Connection
 Game Sync
 High Link
@@ -43,7 +43,7 @@ The "Trainer card"
 The "Pokédex"
 Catching Pokémon
 Type matchup
-"Psycical" "Normal" "Special"
+"Physical" "Normal" "Special"
 Fainted
 Poisoned
 Paralysis
@@ -51,7 +51,7 @@ Asleep
 Frozen
 Burned
 Confused
-Infituated
+Infatuated
 Experience Points
 Evolving
 "Boosted" and "Lowered"
@@ -63,7 +63,7 @@ Gym badges
 Y-Button info
 Pokéshifter setup
 Pokéshifter minigames
-It's always a good thing to save.\xfffePress the X-Button to open the\xfffemenu and tap "Save" to save.\xfffe\xfffePlease remember: Do not turn the\xfffeDS off, because if you do,\xfffeyour "Save data" might get\xfffecorrupted. That would be bad!
+It's always a good thing to save.\xfffePress the X-Button to open the\xfffemenu and tap "Save" to save.\xfffe\xfffePlease remember: Do not turn the\xfffeDS off, because if you do,\xfffeyour save file might get\xfffecorrupted. That wouldn't be good!
 When you want to delete your\xfffesaved game data, press the\xfffeB + UP + SELECT Buttons.\xfffe\xfffePlease remember that this can't be undone.\xfffe\xfffeThink about deleting your game\xfffebefore you do it!
 When you are in the main menu,\xfffeselect the 3rd option and press\xfffethe A Button to go to Mystery Gift.\xfffe・You can recieve gifts via IR\xfffe・You can recieve gifts via Wi-Fi\xfffe・You can recieve gifts via Wireless\xfffe\xfffeTry this out and maybe will\xfffesomething be added to your game!
 When you recieved a gift, you\xfffecan go pick it up at any Pokémon-\xfffecenter building in any town.\xfffeTalk to the person with\xfffethe circle around him (Top Screen)\xfffeto recieve your gift.\xfffe\xfffeMake sure to save when you\xfffehave recieved your gift!
